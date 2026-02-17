@@ -36,4 +36,5 @@ async function loadScores() {
 loadScores();
 
 // Auto refresh every 15 seconds
-setInterval(loadScores, 15000);
+
+// setInterval(loadScores, 15000);
